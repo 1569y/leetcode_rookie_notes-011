@@ -9,3 +9,5 @@
 
 
 `csdn` 中也有同步更新 (https://blog.csdn.net/yi011/category_13208314.html?fromshare=blogcolumn&sharetype=blogcolumn&sharerId=13208314&sharerefer=PC&sharesource=yi011&sharefrom=from_link), 但是碍于 `csdn` 的更新限制, 这里的会更多~
+
+🔖 推荐 可以存入 obsidian 中阅读, 还可以做笔记~
